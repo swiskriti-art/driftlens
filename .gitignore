@@ -1,0 +1,8 @@
+/bin/
+/dist/
+*.out
+*.test
+/coverage.html
+/.envtest/
+.DS_Store
+test-results.json
